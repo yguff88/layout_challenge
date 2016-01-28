@@ -1,0 +1,375 @@
+/*
+Project Name: Page Layout Question
+Author: Alec McGuffey
+Front End Developer @GA in NYC
+*/
+
+
+/* Two Column CSS */
+
+.twocolumn1 {
+  height:75px;
+  width:900px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+}
+
+.twocolumn2 {
+  width:690px; 
+  height:400px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-right:10px;
+  margin-left:50px;
+  margin-bottom:25px;
+}
+.twocolumn3 {
+  width:290px; 
+  height:400px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+}
+.twocolumn4 {
+ height:75px;
+  width:900px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+  clear:both;
+}
+
+/* Three Column CSS */
+
+.threecolumn1 {
+  height:75px;
+  width:900px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+}
+
+.threecolumn2 {
+  width:165px; 
+  height:400px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-right:10px;
+  margin-left:50px;
+  margin-bottom:25px;
+}
+
+.threecolumn3 {
+  width:630px; 
+  height:400px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  margin-right:10px;
+}
+
+.threecolumn4 {
+  width:165px; 
+  height:400px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+}
+
+.threecolumn5 {
+ height:75px;
+  width:900px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+  clear:both;
+  	
+}
+
+/* Simple Marketing CSS */
+
+.marketing1 {
+  height:75px;
+  width:900px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+}
+
+.marketing2 {
+  width:490px; 
+  height:400px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-right:10px;
+  margin-left:50px;
+  margin-bottom:25px;
+}
+
+.marketing3 {
+  width:490px; 
+  height:400px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  margin-right:10px;
+}
+
+.marketing4 {
+  width:320px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:50px;
+  margin-bottom:25px;
+  margin-right:10px;
+  clear:both;
+  float:left;
+}
+
+.marketing5 {
+  width:320px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  margin-right:10px;
+  float:left;
+}
+
+.marketing6 {
+  width:320px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  float:left;
+}
+
+.marketing7 {
+  height:75px;
+  width:900px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+  clear:both;
+  	
+}
+
+/* Marketing with Nav CSS */
+
+.marketingnav1 {
+  height:75px;
+  width:150px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+  float:left;
+}
+
+nav p {
+	height:50px;
+  width:150px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-top:110px;
+  float:right;
+}
+
+nav {
+	margin-right:190px;
+}
+
+.marketingnav2 {
+  width:1000px; 
+  height:400px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-right:10px;
+  margin-left:50px;
+  margin-bottom:25px;
+  
+}
+
+.marketingnav3 {
+  width:320px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:50px;
+  margin-bottom:25px;
+  margin-right:10px;
+  clear:both;
+  float:left;
+}
+
+.marketingnav4 {
+  width:320px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  margin-right:10px;
+  float:left;
+}
+
+.marketingnav5 {
+  width:320px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  float:left;
+}
+
+.marketingnav6 {
+  height:75px;
+  width:900px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+  clear:both;
+  	
+}
+
+/* Magazine CSS */
+
+.magazine1 {
+  height:75px;
+  width:150px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:50px;
+  float:left;
+}
+
+nav p {
+	height:50px;
+  width:150px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-top:110px;
+  float:right;
+}
+
+nav {
+	margin-right:190px;
+}
+
+.magazine2 {
+  width:175px; 
+  height:700px;
+  float:left;
+  background-color:#d3d3d3;
+  margin-right:10px;
+  margin-left:50px;
+  margin-bottom:25px;
+  clear:both;
+  
+}
+
+.magazine3 {
+  width:800px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  margin-right:10px;
+  float:left;
+}
+
+.magazine4 {
+  width:640px; 
+  height:300px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  margin-right:10px;
+  float:left;
+}
+
+.magazine5 {
+  width:140px; 
+  height:300px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  float:left;
+}
+
+.magazine6 {
+  width:193px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  float:left;
+}
+
+.magazine7 {
+  width:193px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  float:left;
+}
+
+.magazine8 {
+  width:193px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  float:left;
+}
+
+.magazine9 {
+  width:193px; 
+  height:175px;
+  background-color:#d3d3d3;
+  margin-left:10px;
+  margin-bottom:25px;
+  float:left;
+}
+
+.magazine10 {
+  height:75px;
+  width:900px;
+  margin-bottom:25px;
+  background-color:#d3d3d3;
+  padding:50px;
+  margin-left:50px;
+  margin-top:25px;
+  clear:both;
+  
+  	
+}
+
+
+
+
+
